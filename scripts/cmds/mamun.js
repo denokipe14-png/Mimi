@@ -15,7 +15,7 @@ module.exports = {
       const msg = event.body?.toLowerCase();
           if (!msg || msg !== "mamun") return;
     const profileText = 
-    `⏤͟͟͞͞𝗠𝗔𝗠𝗨𝗡  𝗜𝗡𝗙𝗢 ☺︎
+    `⏤͟͟͞͞KIPE  𝗜𝗡𝗙𝗢 ☺︎
  ⏤͟͟͞͞☺︎ ┏━━━━━━━━━━━━━━━
  ⏤͟͟͞͞𝐍𝐚𝐦𝐞 ➯ NCS PRO⏤͟͟͞͞ ᜊ
  
