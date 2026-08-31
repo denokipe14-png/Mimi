@@ -17,7 +17,7 @@ module.exports = {
     en: {
       defaultWelcomeMessage: "𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {userName} 🎉\n┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄\n✦ Glad to have you here! Enjoy your stay and make great memories 🌸",
       botAddedMessage:
-        "𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐀𝐃𝐃𝐈𝐍𝐆 𝐌𝐄 𝐔𝐒𝐄 -𝐇𝐄𝐋𝐏 𝐓𝐎 𝐒𝐄 𝐀𝐋𝐋 𝐂𝐌𝐃 𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 𝐏𝐀𝐑𝐒𝐎𝐍𝐀𝐋 𝐁𝐎𝐓"
+        "THANKS FOR ADDING ME BABY 🐥"
   
     }
   },
